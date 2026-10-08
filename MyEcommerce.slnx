@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="AuthServer/AuthServer.csproj" />
+  <Project Path="JwtAuth.Shared/JwtAuth.Shared.csproj" />
+  <Project Path="Product.API/Product.API.csproj" Id="746dba02-1ca6-4b50-a0f5-faf515d654f4" />
+</Solution>
